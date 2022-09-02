@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtikaYuzuf
-- 👀 I’m interested in Big data especially in Machine Learninf
+- 👀 I’m interested in Big data especially in Machine Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send email to artika730@gmail.com
